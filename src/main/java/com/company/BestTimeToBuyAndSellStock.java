@@ -4,6 +4,16 @@ import java.util.ArrayList;
 
 // #121
 public class BestTimeToBuyAndSellStock {
+    /*
+     * Reflection: I felt the improvement with each attempt at improving the solution. For my second (and third) attempt
+     *             I over thought the question and used dynamic programming when it wasn't necessary. The third attempt
+     *             was completed after looking at a hint saying THIS ISN'T A DP QUESTION! Had a good laugh. Keep it
+     *             simple!
+     *
+     * Optimal Solution Reflection: maybe I was a bit too eager to implement dynamic programming. Always use the
+     *                              most simple solution available!
+     *
+     */
 
     // initial brute force solution
     // Exceeded time limit hahaha
@@ -79,6 +89,7 @@ public class BestTimeToBuyAndSellStock {
 
 
     // fourth attempt
+    // USED HINT: TRY TO REMOVE ARRAY
     // Runtime: 1 ms, faster than 100.00% of Java online submissions for Best Time to Buy and Sell Stock.
     // Memory Usage: 52.1 MB, less than 73.42% of Java online submissions for Best Time to Buy and Sell Stock.
     public int maxProfitFourth(int[] prices) {
