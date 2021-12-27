@@ -3,18 +3,17 @@ package com.company;
 
 import java.util.HashMap;
 
-// #1
+/* #1
+ * Reflection: This question took me much longer than I would have liked. For my second solution, I played around
+ *             with the idea of sorting the array first but that would have given the solution N log N time at best.
+ *             Always think hash table first for best time.
+ *
+ * Optimal Solution Reflection: Always try to simplify code. I should have combined loops put the target check in
+ *                              the initial preprocessing loop like in the optimal solution. The optimal solution is
+ *                              also simpler than my solution as it doesn't need to deal with the duplicate value
+ *                              case.
+ */
 public class TwoSum {
-    /*
-     * Reflection: This question took me much longer than I would have liked. For my second solution, I played around
-     *             with the idea of sorting the array first but that would have given the solution N log N time at best.
-     *             Always think hash table first for best time.
-     *
-     * Optimal Solution Reflection: Always try to simplify code. I should have combined loops put the target check in
-     *                              the initial preprocessing loop like in the optimal solution. The optimal solution is
-     *                              also simpler than my solution as it doesn't need to deal with the duplicate value
-     *                              case.
-     */
 
     // initial brute force solution
     // Runtime: 91 ms, faster than 11.30% of Java online submissions for Two Sum.

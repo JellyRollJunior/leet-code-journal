@@ -2,18 +2,18 @@ package com.company;
 
 import java.util.ArrayList;
 
-// #121
+/* #121
+ * Reflection: I felt the improvement with each attempt at improving the solution. For my second (and third) attempt
+ *             I over thought the question and used dynamic programming when it wasn't necessary. The third attempt
+ *             was completed after looking at a hint saying THIS ISN'T A DP QUESTION! Had a good laugh. Keep it
+ *             simple!
+ *
+ * Optimal Solution Reflection: maybe I was a bit too eager to implement dynamic programming. Always use the
+ *                              most simple solution available!
+ *
+ */
 public class BestTimeToBuyAndSellStock {
-    /*
-     * Reflection: I felt the improvement with each attempt at improving the solution. For my second (and third) attempt
-     *             I over thought the question and used dynamic programming when it wasn't necessary. The third attempt
-     *             was completed after looking at a hint saying THIS ISN'T A DP QUESTION! Had a good laugh. Keep it
-     *             simple!
-     *
-     * Optimal Solution Reflection: maybe I was a bit too eager to implement dynamic programming. Always use the
-     *                              most simple solution available!
-     *
-     */
+
 
     // initial brute force solution
     // Exceeded time limit hahaha
