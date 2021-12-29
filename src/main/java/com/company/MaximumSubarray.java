@@ -43,16 +43,41 @@ public class MaximumSubarray {
     }
 
     // Divide and Conquer
-    public static int maxSubArrayOptimal(int[] nums) {
-        int max = nums[0];
-        int maxAtIndex = nums[0];
+    public int maxSubArrayThird(int[] nums) {
 
-        for (int i = 1; i < nums.length; i++) {
-            maxAtIndex = Math.max(maxAtIndex + nums[i], nums[i]);
-            max = Math.max(max, maxAtIndex);
+        return helper(nums,0,nums.length-1);
+    }
+
+    public int helper(int nums[],int i,int j){
+
+        if(i==j){
+            return nums[i];
         }
 
-        return max;
+        int mid  =  (i+j)/2;
+        int sum = 0,leftMax = Integer.MIN_VALUE;
+
+        for(int l =  mid;l>=i;l--){
+            sum+=nums[l];
+            if(sum>leftMax){
+                leftMax =  sum;
+            }
+        }
+
+        int rightMax = Integer.MIN_VALUE;
+        sum = 0;    // reset sum to 0
+        for (int l = mid + 1; l <=j; l++)
+        {
+            sum += nums[l];
+            if (sum > rightMax) {
+                rightMax = sum;
+            }
+        }
+
+        int maxLeftRight = Math.max(helper(nums, i, mid),
+                helper(nums, mid + 1, j ));
+        return Math.max(maxLeftRight, leftMax + rightMax);
+
     }
 
 }
