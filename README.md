@@ -8,6 +8,8 @@
  - Don't use data structures unnecessarily
    - try not to use prebuilts (ex: arraylist) unless necessary
  - Don't over engineer code (is there a simpler approach? Do I really need to use this algorithm? etc.)
+ - When in doubt, write it out
+ - Follow your instinct when deciding an approach to take
 
 ## Reflections - easy
  - #1 TwoSum: Simplify code! Always be trying to code less. In this case, I should have figured out a way to combine my two loops into one. 
