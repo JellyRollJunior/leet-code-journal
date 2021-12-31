@@ -11,6 +11,7 @@
 
 ## Reflections - easy
  - #1 TwoSum: Simplify code! Always be trying to code less. In this case, I should have figured out a way to combine my two loops into one. 
+ - #104 Maximum Depth of Binary Tree: I need to practice writing recursive functions specifically work on choosing the most efficient base case. 
  - #121 Best Time to Buy and Sell Stocks: Don't use data structures unnecessarily and Don't over engineer code.
  - #217 Contains Duplicate: An easy question to solve using HashSet. 
  - #253 MaximumSubarray: Take a break for now. 
