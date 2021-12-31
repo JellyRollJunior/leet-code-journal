@@ -14,4 +14,4 @@
  - #104 Maximum Depth of Binary Tree: I need to practice writing recursive functions specifically work on choosing the most efficient base case. 
  - #121 Best Time to Buy and Sell Stocks: Don't use data structures unnecessarily and Don't over engineer code.
  - #217 Contains Duplicate: An easy question to solve using HashSet. 
- - #253 MaximumSubarray: What i got from this question is follow your instinct and work out base cases. I had the write idea but thought I could work everything out in my head. 
+ - #253 MaximumSubarray: Decide on an approach (follow instinct) and work out cases. I had the right idea but thought I could work everything out in my head. When in doubt, put pen to paper. 
