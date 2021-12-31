@@ -1,10 +1,16 @@
 package com.company;
 
-
-
+/* #104
+ * Reflection: For my initial solution, it was actually pretty good time wise and space wise but once again, I've over
+ *             complicated the solution. I knew I was coding too much but I didn't know how to fix it. I need to pracice
+ *             writing recursive functions more. I was making the base case a leaf when I should have made the base case
+ *             a null node.
+ *
+ * Optimal Solution Reflection: I need to practice writing recursive functions. surprisingly my overcomplicated mess
+ *                              uses comparable memory and speed although it's a nightmare to read.
+ *
+ */
 public class MaximumDepthOfBinaryTree {
-
-
 
     // Initial Solution - hacky in order traversal
     // Runtime: 0 ms, faster than 100.00% of Java online submissions for Maximum Depth of Binary Tree.
@@ -44,12 +50,16 @@ public class MaximumDepthOfBinaryTree {
         }
     }
 
-
-
-
-
-
-
+    // found a simple solution in discussions
+    // Runtime: 0 ms, faster than 100.00% of Java online submissions for Maximum Depth of Binary Tree.
+    // Memory Usage: 39.3 MB, less than 18.79% of Java online submissions for Maximum Depth of Binary Tree.
+    public int maxDepthSimplest(TreeNode root) {
+        if (root == null) {
+            return 0;
+        } else {
+            return 1 + Math.max(maxDepthSimplest(root.left), maxDepthSimplest(root.right));
+        }
+    }
 
     public class TreeNode {
         int val;
