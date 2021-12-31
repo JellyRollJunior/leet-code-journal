@@ -17,7 +17,6 @@ package com.company;
  *                                              - SumAtIndex(+), A[i](-) : take A in hopes of a large payoff
  *                                              - SumAtIndex(-), A[i](-) : take A to start a new chain, larger val recorded already
  *
- * Optimal Solution Reflection part 3:
  */
 public class MaximumSubarray {
 
@@ -54,6 +53,7 @@ public class MaximumSubarray {
         return max;
     }
 
+    // i honestly don't like this solution. It's slow
     // Divide and Conquer
     public int maxSubArrayThird(int[] nums) {
 
