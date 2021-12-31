@@ -6,6 +6,18 @@ package com.company;
  * Optimal Solution Reflection: The worst part is I don't even understand the O(N) or the divide and conquer solution.
  *                              I'm gonna take a break and come back to this question at another time.
  *
+ * Optimal Solution Reflection part 2: I want to say that I was tired that day but I don't know.
+ *                                     It's important to commit to a process and work out cases if possible
+ *                                     I knew I wanted to do a O(N) procedurally generated sum, I should have worked
+ *                                     out all the possible cases.
+ *                                     O(N) solution breakdown:
+ *                                          - SumAtIndex + A[i] vs A[i]
+ *                                              - SumAtIndex(+), A[i](+) : good, take both cuz sum goes up
+ *                                              - SumAtIndex(-), A[i](+) : restart sum with A cuz why would we take sum
+ *                                              - SumAtIndex(+), A[i](-) : take A in hopes of a large payoff
+ *                                              - SumAtIndex(-), A[i](-) : take A to start a new chain, larger val recorded already
+ *
+ * Optimal Solution Reflection part 3:
  */
 public class MaximumSubarray {
 
