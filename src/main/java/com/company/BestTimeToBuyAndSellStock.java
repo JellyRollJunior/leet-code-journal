@@ -14,7 +14,6 @@ import java.util.ArrayList;
  */
 public class BestTimeToBuyAndSellStock {
 
-
     // initial brute force solution
     // Exceeded time limit hahaha
     public int maxProfit(int[] prices) {
