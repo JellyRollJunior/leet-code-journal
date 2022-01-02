@@ -17,3 +17,6 @@
  - #121 Best Time to Buy and Sell Stocks: Don't use data structures unnecessarily and Don't over engineer code.
  - #217 Contains Duplicate: An easy question to solve using HashSet. 
  - #253 MaximumSubarray: Decide on an approach (follow instinct) and work out cases. I had the right idea but thought I could work everything out in my head. When in doubt, put pen to paper. 
+
+## Reflections - medium
+ - #238 Product of Array Except Self: I'm very proud to have figured this out by myself! Need to keep in mind when it's necessary to save intermediate values and when they can just be discarded (in order to save space)
