@@ -4,7 +4,11 @@ package com.company;
  * Reflection: Initial solution is slow and hacky due to all the if statements. For the second solution, I combined
  *             some if statements and extracted reused code into a method. The algorithm is unchanged.
  *
- * Optimal Solution Reflection:
+ * Optimal Solution Reflection: My solution is much more brute force in comparison to the optimal solution I found. This
+ *                              one is more rooted in mathematics which makes it better. Track the min and max value
+ *                              possible at index i because the min and max value will flip upon multiplication of a
+ *                              negative value. My version is recomputes instead of storing this min value which takes
+ *                              double the computations in worst case.
  *
  */
 public class MaximumProductSubarray {
@@ -93,5 +97,26 @@ public class MaximumProductSubarray {
         }
 
         return maxProduct;
+    }
+
+    // optimal solution from discussions
+    public int maxProductOptimal(int[] nums) {
+
+        int max = nums[0], min = nums[0], ans = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+
+            int temp = max;  // store the max because before updating min your max will already be updated
+
+            max = Math.max(Math.max(max * nums[i], min * nums[i]), nums[i]);
+            min = Math.min(Math.min(temp * nums[i], min * nums[i]), nums[i]);
+
+            if (max > ans) {
+                ans = max;
+            }
+        }
+
+        return ans;
+
     }
 }
