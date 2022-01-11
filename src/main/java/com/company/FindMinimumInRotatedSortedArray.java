@@ -4,7 +4,8 @@ package com.company;
  * Reflection: I based my logN solution on binary search. While im content with the running time, it's not coded very
  *             elegantly. I still have room for improvement in that aspect.
  *
- * Optimal Solution Reflection:
+ * Optimal Solution Reflection: After checking other answers, they're also about equally as elegant so ill give myself
+ *                              some credit for this one.
  *
  */
 public class FindMinimumInRotatedSortedArray {
