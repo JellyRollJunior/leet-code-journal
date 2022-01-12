@@ -25,8 +25,9 @@
  - #217 Contains Duplicate: An easy question to solve using HashSet. 
  - #253 Maximum Subarray*: Decide on an approach (follow instinct) and work out cases. I had the right idea but thought I could work everything out in my head. When in doubt, put pen to paper. 
 
-## Reflections - medium
- - #11 Container with Most Water: You don't always have to go through the inputs in a linear fashion. Start with the largest potential value and work from there!
- - #152 Maximum Product Subarray: This question drove home the importance of constructing algorithms mathematically. I thought up an algorithm and coded it. What I should have done was decide on an approach, carefully plan out all the cases, then code. 
+## Reflections - medium 
  - #238 Product of Array Except Self: I'm very proud to have figured this out by myself! Need to keep in mind when it's necessary to save intermediate values and when they can just be discarded (in order to save space)
+ - #152 Maximum Product Subarray: This question drove home the importance of constructing algorithms mathematically. I thought up an algorithm and coded it. What I should have done was decide on an approach, carefully plan out all the cases, then code. 
+ - #11 Container with Most Water: You don't always have to go through the inputs in a linear fashion. Start with the largest potential value and work from there!
+ - #153 Find Minimum In Rotated Sorted Array: I'm starting to see the patterns in these question! Just need to learn to work faster.
 
