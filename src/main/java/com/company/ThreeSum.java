@@ -16,7 +16,9 @@ import java.util.*;
  *                  Although this is O(N^2) in theory, I think it still timed out because too many if statements and
  *                  it's very inefficient
  *
- * Optimal Solution Reflection:
+ * Optimal Solution Reflection: The optimal solution implemented something I talked about earlier where they constructed
+ *                              a sum in linear time. I should have played around with this idea more in depth.
+ *
  */
 public class ThreeSum {
 
@@ -104,5 +106,27 @@ public class ThreeSum {
             }
         }
         return result;
+    }
+
+
+    // O(N^2) solution from discussions.
+    public List<List<Integer>> threeSumOPTIMAL(int[] num) {
+        Arrays.sort(num);
+        List<List<Integer>> res = new LinkedList<>();
+        for (int i = 0; i < num.length-2; i++) {
+            if (i == 0 || num[i] != num[i - 1] || num[i] > 0) {
+                int lo = i+1, hi = num.length-1, sum = 0 - num[i];
+                while (lo < hi) {
+                    if (num[lo] + num[hi] == sum) {
+                        res.add(Arrays.asList(num[i], num[lo], num[hi]));
+                        while (lo < hi && num[lo] == num[lo+1]) lo++;
+                        while (lo < hi && num[hi] == num[hi-1]) hi--;
+                        lo++; hi--;
+                    } else if (num[lo] + num[hi] < sum) lo++;
+                    else hi--;
+                }
+            }
+        }
+        return res;
     }
 }
