@@ -13,6 +13,8 @@ public class ThreeSum {
 
     // my horrible O(N^3) brute force solution 8)
     public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
+
         List<List<Integer>> result = new ArrayList<>();
         for (int i = 0; i < nums.length - 2; i++) {
             if (i != 0) {
@@ -37,4 +39,10 @@ public class ThreeSum {
         }
         return result;
     }
+
+    // second solution O(n^2 logN)
+    // for (int i = 0; i < nums.length - 2; i++) {
+    //      for (int j = i + 1; j < nums.length - 1; j++) {
+    //          int twoSum = nums[i] + nums[j];
+    //          bsearch(-twoSum);
 }
