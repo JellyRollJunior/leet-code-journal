@@ -25,7 +25,7 @@
  - #121 Best Time to Buy and Sell Stocks: Don't use data structures unnecessarily and Don't over engineer code.
  - #217 Contains Duplicate: An easy question to solve using HashSet. 
  - #253 Maximum Subarray*: Decide on an approach (follow instinct) and work out cases. I had the right idea but thought I could work everything out in my head. When in doubt, put pen to paper. 
- - #191 Number of 1 bits: an easy question but smart use of bit operators can save a lot of time compared to "dumb" use of bit operators like I did like makeing use of bit mask to save if statements when checking if odd or not! so smart!
+ - #191 Number of one bits: an easy question but smart use of bit operators can save a lot of time compared to "dumb" use of bit operators like I did like makeing use of bit mask to save if statements when checking if odd or not! so smart!
  - #338 Counting Bits: I got the N Log N solution and mistakenly rested on my laurels. Don't get cocky!!! Always try to reuse previous work done if applicable. 
 
 ## Reflections - medium 
