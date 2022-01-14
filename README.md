@@ -26,6 +26,7 @@
  - #217 Contains Duplicate: An easy question to solve using HashSet. 
  - #253 Maximum Subarray*: Decide on an approach (follow instinct) and work out cases. I had the right idea but thought I could work everything out in my head. When in doubt, put pen to paper. 
  - #191 Number of 1 bits: an easy question but smart use of bit operators can save a lot of time compared to "dumb" use of bit operators like I did like makeing use of bit mask to save if statements when checking if odd or not! so smart!
+ - #338 Counting Bits: I got the N Log N solution and mistakenly rested on my laurels. Don't get cocky!!! Always try to reuse previous work done if applicable. 
 
 ## Reflections - medium 
  - #238 Product of Array Except Self: I'm very proud to have figured this out by myself! Need to keep in mind when it's necessary to save intermediate values and when they can just be discarded (in order to save space)
