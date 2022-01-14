@@ -2,10 +2,12 @@ package com.company;
 
 /* #191
  * Reflection: I actually did this question right after Number of One Bits so this feels like cheating since it's almost
- *             the same question.
+ *             the same question. The optimal solution for Number of One Bits was fresh in my mind so I basically just
+ *             repurposed that.
  *
- * Optimal Solution Reflection: The optimal solution for Number of One Bits was fresh in my mind so I basically just
- *                              repurposed that.
+ * Optimal Solution Reflection: OK I was too cocky again. My solution has a bunch of needless operations done. This
+ *                              doesn't matter much for the input range of n < 10^5 but will bite my behind with
+ *                              larger inputs. Don't be so cocky!!!!!!
  *
  */
 public class CountingBits {
@@ -30,5 +32,13 @@ public class CountingBits {
             current++;
         }
         return result;
+    }
+
+    // optimal solution from discussions
+    public int[] countBitsOptimal(int num) {
+        int[] f = new int[num + 1];
+        for (int i=1; i<=num; i++)
+            f[i] = f[i >> 1] + (i & 1);
+        return f;
     }
 }
