@@ -35,4 +35,6 @@
  - #153 Find Minimum In Rotated Sorted Array: I'm starting to see the patterns in these question! Just need to learn to work faster.
  - #33 Search In Rotated Sorted Array*: This question is so much harder than the previous one. Don't just mindlessly map out cases. Try to notice patterns, make use of work already done for you (in this case sorted areas) to eliminate ranges of input (which is easily done with sorting already done for you).
  - #13 3 Sum*: Remember two pointer traversals and again, always try to use sorted arrays in your favor. 
+ - #371 Sum of Two Integers*: Explanation of bitwise operators + solution in reflection. The only way I would have figured this out is by writing out examples using a ^ b, a & b, etc. and noticing the pattern. I'm not sure how I would have solved this without prior knowledge of this but at least now I have that prior knowledge. 
+   - [helpful bitwise operator cheat sheet](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
 
