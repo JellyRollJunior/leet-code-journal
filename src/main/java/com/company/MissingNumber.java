@@ -22,4 +22,16 @@ public class MissingNumber {
 
         return result;
     }
+
+    // second solution
+    // Runtime: 1 ms, faster than 64.96% of Java online submissions for Missing Number.
+    // Memory Usage: 47.9 MB, less than 38.27% of Java online submissions for Missing Number.
+    public int missingNumberSecond(int[] nums) {
+        int result = 0;
+        for (int i = 0; i < nums.length; i++) {
+            result = result ^ nums[i] ^ i;
+        }
+
+        return result ^ nums.length;
+    }
 }
