@@ -30,6 +30,7 @@ package com.company;
                     If I add two numbers together but only carry, I will have a 1 in the ith bit of the sum only if
                     bits i - 1 of a and b are both 1s. This is an AND, shifted.
                     Now, recurse until there's nothing to carry.
+ *
  */
 public class SumOfTwoIntegers {
 
