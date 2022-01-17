@@ -1,9 +1,9 @@
 package com.company;
 
 /* #268
- * Reflection:
+ * Reflection: did a similar question on hackerrank so this question is cheating as I already knew how to solve it.
  *
- * Optimal Solution Reflection:
+ * Optimal Solution Reflection: 8)
  *
  */
 public class MissingNumber {
