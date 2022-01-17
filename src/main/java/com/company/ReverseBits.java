@@ -1,5 +1,11 @@
 package com.company;
 
+/* #190
+ * Reflection: I couldn't figure this one out without a hint. I didn't understand bitmasks as well as I thought!
+ *
+ * Optimal Solution Reflection: my cheater solution is optimal
+ *
+ */
 public class ReverseBits {
 
     // initial solution
