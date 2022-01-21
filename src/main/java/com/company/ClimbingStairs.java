@@ -1,5 +1,12 @@
 package com.company;
 
+/* #70
+ * Reflection: FIBONACCI -> I think it's nice to see the progression here. I incrementally made each solution better
+ *             than the last.
+ *
+ * Optimal Solution Reflection: I checked the optimal solution and it's the same as how I implemented it.
+ *
+ */
 public class ClimbingStairs {
 
     // initial solutions
