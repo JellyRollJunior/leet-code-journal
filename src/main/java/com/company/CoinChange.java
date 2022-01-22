@@ -2,6 +2,14 @@ package com.company;
 
 import java.util.Arrays;
 
+/* #322
+ * Reflection: I've seen how to do this question before so figuring it out didn't take too long. The big problem for me
+ *             was making this code clean and concise. I had a really hard time doing that and in the end I searched up
+ *             a solution.
+ *
+ * Optimal Solution Reflection: SO CLEAN. Try to eliminate intermediate variables when they're not needed!
+ *
+ */
 public class CoinChange {
 
     // initial hacky solution
