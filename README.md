@@ -18,6 +18,7 @@
    - do some work on paper (ex: work out cases, work out optimal formulas, etc.)
    - write pseudo code 
    - code
+ - Try to eliminate intermediate variables for clarity
 
 ## Reflections - easy
  - #1 TwoSum: Simplify code! Always be trying to code less. In this case, I should have figured out a way to combine my two loops into one. 
@@ -40,4 +41,5 @@
  - #13 Three Sum*: Remember two pointer traversals and again, always try to use sorted arrays in your favor. 
  - #371 Sum of Two Integers*: Explanation of bitwise operators + solution in reflection. The only way I would have figured this out is by writing out examples using a ^ b, a & b, etc. and noticing the pattern. I'm not sure how I would have solved this without prior knowledge of this but at least now I have that prior knowledge. 
    - [helpful bitwise operator cheat sheet](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
+ - #322 Coin Change: While my problem solving was sound, I need to work on concision and clarity. Eliminate Intermediate variables whenever possible. 
 
