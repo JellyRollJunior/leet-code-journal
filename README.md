@@ -42,4 +42,5 @@
  - #371 Sum of Two Integers*: Explanation of bitwise operators + solution in reflection. The only way I would have figured this out is by writing out examples using a ^ b, a & b, etc. and noticing the pattern. I'm not sure how I would have solved this without prior knowledge of this but at least now I have that prior knowledge. 
    - [helpful bitwise operator cheat sheet](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
  - #322 Coin Change: While my problem solving was sound, I need to work on concision and clarity. Eliminate Intermediate variables whenever possible. 
+ - #300 Longest Increasing Subsequence*: Figured out O(N^2) quickly, O(NLogN) took me 3 hours. I understand it but I don't know how I would figure this out myself to be honest. At least now I have the experience of doing it.  
 
