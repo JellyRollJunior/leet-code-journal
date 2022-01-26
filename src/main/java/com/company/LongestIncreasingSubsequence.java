@@ -1,5 +1,11 @@
 package com.company;
 
+/* #300
+ * Reflection: figured out the N^2 solution in a reasonable time. That's good at least
+ *
+ * Optimal Solution Reflection: Took me 2 hours 53 mins to understand. I'm dying
+ *
+ */
 public class LongestIncreasingSubsequence {
 
     // initial O(N^2) solution : 41 mins
@@ -22,4 +28,18 @@ public class LongestIncreasingSubsequence {
         }
         return max;
     }
+
+    // O(N LogN) solution (SEARCHED UP)
+    /*
+     *  dp[] - result list
+     *  Two cases
+     *      1. nums[i] > all previous values : then increment subsequence by 1
+     *      2. nums[i] < previous max nums[0 to (i-1)]
+     *          a. insert into sorted location overwriting value previous in it's place
+     *              EX: nums[i] = 5, dp[0, 2, 4, 6, 9] => dp[0, 2, 4, 5, 9]
+     *              I. This effectively allows us to store 0, 2, 4, 6, 9 and 0, 2, 4, 5 using only one array
+     *              II. if another 6 comes, it will be inserted into dp[0, 2, 4, 5, 6] because we no longer need 9
+     */
+
+    // OPTIMAL SOLUTION 2 -> Patience sort
 }
