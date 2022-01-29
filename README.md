@@ -44,4 +44,5 @@
    - [helpful bitwise operator cheat sheet](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
  - #322 Coin Change: While my problem solving was sound, I need to work on concision and clarity. Eliminate Intermediate variables whenever possible. 
  - #300 Longest Increasing Subsequence*: Figured out O(N^2) quickly, O(NLogN) took me 3 hours. I understand it but I don't know how I would figure this out myself to be honest. Run through EXAMPLE TEST CASES to understand a solution quicker (although at this point you already gave up on figuring it out yourself lol). REMEMBER TO TAKE BREAKS TO RESET MENTAL. MENTAL DRAIN STOLE LIKE TWO HOURS OF MY LIFE.
+ - #198 House Robber*: Not a particularly hard question (my fastest medium at 20mins) but I could have done better with space complexity and reducing redundant code. 
 
