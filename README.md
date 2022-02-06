@@ -20,6 +20,7 @@
    - code
  - Try to eliminate intermediate variables for clarity
  - If you feel mental strain start to set in, just take a break and reset mental
+ - Only run code if you think it's correct. Don't run code to check correctness! This promotes lazy coding. They won't let you submit the answer over and over again to check correctness in a job interview lol. 
 
 ## Reflections - easy
  - #1 TwoSum: Simplify code! Always be trying to code less. In this case, I should have figured out a way to combine my two loops into one. 
@@ -46,4 +47,5 @@
  - #300 Longest Increasing Subsequence*: Figured out O(N^2) quickly, O(NLogN) took me 3 hours. I understand it but I don't know how I would figure this out myself to be honest. Run through EXAMPLE TEST CASES to understand a solution quicker (although at this point you already gave up on figuring it out yourself lol). REMEMBER TO TAKE BREAKS TO RESET MENTAL. MENTAL DRAIN STOLE LIKE TWO HOURS OF MY LIFE.
  - #198 House Robber*: Not a particularly hard question (my fastest medium at 20mins for O(N) solution) but I could have done better with space complexity and reducing redundant code. 
  - #62 Unique Paths: Implement the inefficient space solution first, then work on saving space. 
+ - #55 Jump Game: I implemented the O(N) O(1) solution myself this time (48 mins)! I'm improving! Although I realized my approach to doing questions promotes lazy coding so I'll work on changing that (explained above).
 
