@@ -49,3 +49,26 @@
  - #62 Unique Paths: Implement the inefficient space solution first, then work on saving space. 
  - #55 Jump Game: I implemented the O(N) O(1) solution myself this time (48 mins)! I'm improving! Although I realized my approach to doing questions promotes lazy coding so I'll work on changing that (explained above).
 
+
+
+
+
+
+
+# ----- something from reddit -- I'll organize this later --- 
+
+Once you've given a honest attempt to solve a problem, I agree that you should use all the materials you need to deeply understand the problem. But you DO need to spend some time struggling on your own to practice the PROCESS OF PROBLEM SOLVING.
+To deeply understand a tricky problem (solution/discussion/youtube/etc) you are already spending 1 to 2 hours. Spending 20-30 minutes extra to try to come up with a solution on your own is not that much more extra time, so just do it. Also, you definitely aren't going to be cranking out 300 problems in 3 weeks either (even if you just look at the solutions....).
+Here is how I go about leetcode prep. Take this advice with a grain of salt, I am preparing for interviews right now, but not I am an employed SWE yet.
+- Pick any book / resource / whatever you like to guide you and feed you problems (structy, algoexpert, Blind 75, Grokking, CTCI, EPI, etc -- they all basically teach you the same problems/patterns with slight variations).
+- When solving a problem I do this in a basic code editor (steps 1-4 and 6 in a multi line comment on top of the file):
+Copy/paste the problem definition. Read it out loud and understand what they want.
+Look at the examples they give you for what the algorithm should do. "Solution(input) -> output". Come up with 1 or 2 examples on your own, and write them down.
+Think out loud, and write down (!!) the possible high-level approaches to solving the problem. Eg: "this two-sum problem can be brute-forced in O(n^2) time using two for-loops, or it can be solved in O(n) using a hashmap." This doesn't have to be detailed, just a possible approach. Think about possible edge cases and how they could break the solution.
+Here, if you are completely blanking after 5 minutes, and can't even do a brute-force solution, then do what the OP said - abort mission, and spend the next hour understanding the problem by looking at the solution. Once you understood the solution go to step 4.
+Pick one of the approaches, and write out the pseudo code for it, while taking out loud as to what your thought process is.
+CODE THE ACTUAL SOLUTION. If you actually followed steps 1-4, this part is going to be trivial. You will bang out the actual code often in under 5 minutes. Paste the code into leetcode (or whatever platform you are using) to ensure it works. You can even write your own test cases, and run locally.
+If you haven't addressed this in step 3 (when you were talking about approaches), think about how you would optimize the solution. Talk about big O here.
+Basically, doing it this way, I train myself to do 2 things: first, to understand and potentially break down a complicated problem without panicking, and second, to communicate my thought process out loud. The hope here is that even if I can't solve the problem, clearly communicating my thought process will make it easy for the interviewer to give me tips, and maybe score me bonus points on the "communicates well" axis.
+Anyway, that's how I am doing it. It's slow. I realistically, do 2-3 problems a day only, and maybe only 1 problem when I am busy, but that's how I roll.
+I am a relative newbie trying to break into the field, so maybe this advice is shit. I'll update my thinking in 3 months >_> Based on whether it has worked for me or not.
