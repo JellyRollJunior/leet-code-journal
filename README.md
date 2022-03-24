@@ -48,7 +48,10 @@
  - #198 House Robber*: Not a particularly hard question (my fastest medium at 20mins for O(N) solution) but I could have done better with space complexity and reducing redundant code. 
  - #62 Unique Paths: Implement the inefficient space solution first, then work on saving space. 
  - #55 Jump Game: I implemented the O(N) O(1) solution myself this time (48 mins)! I'm improving! Although I realized my approach to doing questions promotes lazy coding so I'll work on changing that (explained above).
+ - #1143 Longest Common Subsequence: Again, notice mental boom. Prove your steps are correct. Don't just write a line of code and pray it works. PROVE IT PROVE IT PROVE IT PROVE IT PROVE IT. 
 
+## Random Musings
+ - 03/20/2022: BEEN A WHILE. I come back from a break after finding a job and do one of the hardest I've seen so far #1143. I get anniihilated even though I watched a video on how the algorithm works. Good to know that taking a break probably wasn't a good idea. I'm getting back into the swing of things again. When I look back at the change history, I actually only stopped for 22 days. Why is this so hard got damn. 
 
 
 
