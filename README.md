@@ -33,7 +33,7 @@
  - #268 Missing Number: I've done this before 8)
  - #190 Reverse Bits*: Taught me how to properly use bitmasks and bit shifting operations!
  - #70 Climbing Stairs: 8)
- - #206 Reverse Linked List: I still have trouble saving space. I can usually write an optimal time algorithm but not a optimal space one. I need to work on keeping track of pointers because sometimes I get lost in the pointer shuffle. Try to write everything down to make things more clear. 
+ - #206 Reverse Linked List*: I still have trouble saving space. I can usually write an optimal time algorithm but not a optimal space one. I need to work on keeping track of pointers because sometimes I get lost in the pointer shuffle. Try to write everything down to make things more clear. 
 
 ## Reflections - medium 
  - #238 Product of Array Except Self: I'm very proud to have figured this out by myself! Need to keep in mind when it's necessary to save intermediate values and when they can just be discarded (in order to save space)
@@ -50,6 +50,7 @@
  - #62 Unique Paths: Implement the inefficient space solution first, then work on saving space. 
  - #55 Jump Game: I implemented the O(N) O(1) solution myself this time (48 mins)! I'm improving! Although I realized my approach to doing questions promotes lazy coding so I'll work on changing that (explained above).
  - #1143 Longest Common Subsequence: Again, notice mental boom. Prove your steps are correct. Don't just write a line of code and pray it works. PROVE IT PROVE IT PROVE IT PROVE IT PROVE IT. 
+ - #3 Longest Substring Without Repeating Characters: Actually a pretty easy question for a medium. However, I didnt do this question properly. I fell back to my old ways of not proving and just running til I see a success message. Don't do this!!! 
 
 ## Random Musings
  - 03/20/2022: BEEN A WHILE. I come back from a break after finding a job and do one of the hardest I've seen so far #1143. I get anniihilated even though I watched a video on how the algorithm works. Good to know that taking a break probably wasn't a good idea. I'm getting back into the swing of things again. When I look back at the change history, I actually only stopped for 22 days. Why is this so hard got damn. 
