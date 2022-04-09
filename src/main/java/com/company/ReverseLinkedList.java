@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.structures.ListNode;
+
 /* # 206
  * Reflection: I figured out the O(N) time iterative solution myself however I was unable to figure out O(1) space and
  *             recursive version myself. Although I did figure out the recursive way after looking at the optimal

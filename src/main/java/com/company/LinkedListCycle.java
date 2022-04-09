@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.structures.ListNode;
+
 /* #141
  * Reflection: I only thought of a brute force O(N) space solution. lame. I thought of the optimal space solution once
  *             I got the hint (basically the entire solution) see the pointer names walker and runner
