@@ -79,4 +79,17 @@ public class MaximumDepthOfBinaryTree {
             this.right = right;
         }
     }
+
+    // I accidentally redid this question
+    // pretty good though - didn't need to move the recursive part into a new function tho lol
+    public int maxDepth(TreeNode root) {
+        return depthFirstSearch(root);
+    }
+
+    public int depthFirstSearch(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        return 1 + Math.max(depthFirstSearch(root.left), depthFirstSearch(root.right));
+    }
 }
