@@ -53,6 +53,9 @@
  - #1143 Longest Common Subsequence: Again, notice mental boom. Prove your steps are correct. Don't just write a line of code and pray it works. PROVE IT PROVE IT PROVE IT PROVE IT PROVE IT. 
  - #3 Longest Substring Without Repeating Characters: Actually a pretty easy question for a medium. However, I didnt do this question properly. I fell back to my old ways of not proving and just running til I see a success message. Don't do this!!! 
 
+## Reflections - hard
+ - #124 Binary Tree Maximum Path Sum*: Honestly, easier than I expected for a hard question. Although I still didn't complete it 100% on my own, I got a lot closer than some mediums. Me thinks this one isn't actually that hard. One thing I need to work on is mental fatigue. I get impatient half way through and try to brute force it with submissions. 
+
 ## Random Musings
  - 03/20/2022: BEEN A WHILE. I come back from a break after finding a job and do one of the hardest I've seen so far #1143. I get anniihilated even though I watched a video on how the algorithm works. Good to know that taking a break probably wasn't a good idea. I'm getting back into the swing of things again. When I look back at the change history, I actually only stopped for 22 days. Why is this so hard got damn. 
 
