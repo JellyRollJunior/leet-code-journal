@@ -35,6 +35,7 @@
  - #70 Climbing Stairs: 8)
  - #206 Reverse Linked List*: I still have trouble saving space. I can usually write an optimal time algorithm but not a optimal space one. I need to work on keeping track of pointers because sometimes I get lost in the pointer shuffle. Try to write everything down to make things more clear. 
  - #141 Linked List Cycle*: Don't underestimate linked lists. They're trickier than you think! A lot of these can be solved using two pointers so try to figure out a way to do it like that haha. 
+ - #21 Merge two sorted Linked Lists*: Extremely easy question that I blundered! 8) Good test when coming back from a break though!
 
 ## Reflections - medium 
  - #238 Product of Array Except Self: I'm very proud to have figured this out by myself! Need to keep in mind when it's necessary to save intermediate values and when they can just be discarded (in order to save space)
