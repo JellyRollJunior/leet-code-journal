@@ -53,6 +53,7 @@
  - #55 Jump Game: I implemented the O(N) O(1) solution myself this time (48 mins)! I'm improving! Although I realized my approach to doing questions promotes lazy coding so I'll work on changing that (explained above).
  - #1143 Longest Common Subsequence: Again, notice mental boom. Prove your steps are correct. Don't just write a line of code and pray it works. PROVE IT PROVE IT PROVE IT PROVE IT PROVE IT. 
  - #3 Longest Substring Without Repeating Characters: Actually a pretty easy question for a medium. However, I didnt do this question properly. I fell back to my old ways of not proving and just running til I see a success message. Don't do this!!! 
+ - #19 Remove Nth Node from End of List: Kind of cheated as I already knew how to find nth node from Joseph all those years ago :P again, a great question to do comign back from a break. Think about what pointers you need and which ones you dont! Always try to save memory. 
 
 ## Reflections - hard
  - #124 Binary Tree Maximum Path Sum*: Honestly, easier than I expected for a hard question. Although I still didn't complete it 100% on my own, I got a lot closer than some mediums. Me thinks this one isn't actually that hard. One thing I need to work on is mental fatigue. I get impatient half way through and try to brute force it with submissions. 
