@@ -1,6 +1,6 @@
 package com.company;
 
-/* #253
+/* #53
  * Reflection: A very discouraging question. I basically only came up with a brute for solution.
  *
  * Optimal Solution Reflection: The worst part is I don't even understand the O(N) or the divide and conquer solution.
@@ -90,6 +90,20 @@ public class MaximumSubarray {
                 helper(nums, mid + 1, j ));
         return Math.max(maxLeftRight, leftMax + rightMax);
 
+    }
+
+
+    // REDUX: IM DOING GROKKING THE CODING INTERVIEW AND REDOING OLD QUESTION I PROBABLY FORGOT HOW TO DO
+    // SEARCHED UP WHAT SLIDING WINDOW WAS SO THIS IS KIND OF CHEATING I GUESS IDK
+    // PRETTY MUCH THE SAME AS OPTIMAL SOLUTION FROM BEFORE, PROBABLY SUBCONSCIOUSLY REMEMBERED IT
+    public int maxSubArrayGROK(int[] nums) {
+        int max = nums[0];
+        int current = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            current = Math.max(current + nums[i], nums[i]);
+            max = Math.max(max, current);
+        }
+        return max;
     }
 
 }
