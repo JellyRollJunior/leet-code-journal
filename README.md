@@ -5,7 +5,109 @@
  - Understand the optimal solution 
  - Questions where I had to look at the answer to get a good time complexity marked *
 
-## Things I've Learned
+# Starting Again 08/06/2022
+Blind 75 Tracker
+
+NOTES:
+* Remember your fundamentals -> Use variables when a value is used more than once!
+
+Array
+* Two Sum
+* Best Time to Buy and Sell Stock - Don’t use previous ideas. Start anew
+* Contains Duplicate
+* Product of Array Except Self
+* Maximum Subarray
+* Maximum Product Subarray
+* Find Minimum in Rotated Sorted Array
+* Search in Rotated Sorted Array 
+    * (GAVE UP -> found approach tho but didn’t code)
+    * https://www.youtube.com/watch?v=QdVrY3stDD4
+* Three sum (GAVE UP) 
+    * Look at the example: the example solution shows data in sorted order then maybe that’s a hint to sort the data!
+    * https://www.youtube.com/watch?v=qJSPYnS35SE
+* Container With Most Water
+    * kind of cheating since i already knew the answer
+
+Dynamic Programming
+* Climbing Stairs
+* Coin Change
+* Longest Increasing Subsequence
+    * THE OPT SOLUTION DOESNT EVEN USE DP I GOT TROLLED (ok honestly the NLogN solution is too complex, N^2 good enuf) 
+* Longest Common Subsequence
+    * (GAVE UP -> https://www.youtube.com/watch?v=sSno9rV8Rhg)
+    * How do i build an algorithm to solve this? Do i just have to know? 
+    * Build your solution incrementally when you can
+    * Get acquainted with which questions use matrix and which don’t. 
+* Word Break 
+    * I kinda suck at dynamic programming LOL this one is really hard tho tbh
+    * Sliding window -> the actual strings don’t really matter, just keep track of whether there’s a solution or not
+    * find solution incrementally for each letter one at a time. 
+    * BUILD IT UP ONE AT A TIME BRO NO GREEDY SHIT TRYNA DO THE WHOLE THING IN ONCE PASSOVER
+    * NOT GREEDY -> DYNAMIC MY MANZ
+    * UNDERSTAND HOW s.substring works!
+* Combination Sum
+    * Classic DP question
+    * Good at testing your optimization skills while not being too hard
+* House Robber
+* House Robber II
+    * honestly i remembered the solution for this. kind of cheated
+* Decode Ways
+    * THINK OUTSIDE THE BOX 
+    * CAN GRAB THE ACTUAL NUMBER INSTEAD OF CREATING THESE CONVOLUTED IF STATEMENTS
+* Unique Paths
+* Jump Game
+
+Interval
+* Insert Interval
+
+Linked List
+* Reverse Linked List
+* Detect Cycle in a Linked List
+* Merge Two Sorted Lists
+    * please read the question carefully to save yourself some headache lol
+* Merge K sorted lists (skipped)
+* Remove Nth Node From End of List
+    * you may remember the algorithm but can you think of an elegant way to implement it??? bitch boy
+
+String
+* Longest Substring Without Repeating Characters
+    * Important: Code this out using the data structure so you get the right answer first
+    * Then explain there are more efficient ways to do this
+        * two pointer -> save memory
+        * Array -> save memory
+    * Explain if given more time, this can be optimized. Show that you see the potential for better
+* Longest Repeating Character Replacement
+    * Did brute force but not the good solution lol
+    * Redo this one. Its pretty good. 
+* MINIMUM WINDOW SUBSTRING (SKIPPED)
+* Valid Anagram
+* Group Anagrams
+    * I thought of brute force approach then gave up and looked at the answer
+    * Very good question - redo it
+    * (DONT READ THIS) - think about putting fancy tings in a hash map
+* Valid Parenthesis
+    * Redo this question
+    * its an easy one but you couldn’t think of an elegant solution l0000000000000l
+* Valid Palindrome
+* Longest Palindromic Substring
+    * Got right answer with right algorithm but could have been coded way better
+    * REDO
+* Palindromic Substrings
+    * Easier version of longest palindromic substring. 
+    * its the same algorithm but with less knowledge of string functions
+
+Tree
+* Maximum Depth of Binary Tree
+* Same Tree
+* Invert/Flip Binary Tree
+* Binary Tree Maximum Path Sum (SKIPPED)
+* Binary Tree Level Order Traversal
+    * Very important to choose the right data structure for this one
+
+
+# First Time 12/20/2021
+
+Things I've Learned
  - Don't use data structures unnecessarily
    - try not to use prebuilts (ex: arraylist) unless necessary
  - Don't over engineer code (is there a simpler approach? Do I really need to use this algorithm? etc.)
@@ -22,7 +124,7 @@
  - If you feel mental strain start to set in, just take a break and reset mental
  - Only run code if you think it's correct. Don't run code to check correctness! This promotes lazy coding. They won't let you submit the answer over and over again to check correctness in a job interview lol. 
 
-## Reflections - easy
+Reflections - easy
  - #1 TwoSum: Simplify code! Always be trying to code less. In this case, I should have figured out a way to combine my two loops into one. 
  - #104 Maximum Depth of Binary Tree: I need to practice writing recursive functions specifically work on choosing the most efficient base case. 
  - #121 Best Time to Buy and Sell Stocks: Don't use data structures unnecessarily and Don't over engineer code.
@@ -37,7 +139,7 @@
  - #141 Linked List Cycle*: Don't underestimate linked lists. They're trickier than you think! A lot of these can be solved using two pointers so try to figure out a way to do it like that haha. 
  - #21 Merge two sorted Linked Lists*: Extremely easy question that I blundered! 8) Good test when coming back from a break though!
 
-## Reflections - medium 
+Reflections - medium 
  - #238 Product of Array Except Self: I'm very proud to have figured this out by myself! Need to keep in mind when it's necessary to save intermediate values and when they can just be discarded (in order to save space)
  - #152 Maximum Product Subarray: This question drove home the importance of constructing algorithms mathematically. I thought up an algorithm and coded it. What I should have done was decide on an approach, carefully plan out all the cases, then code. 
  - #11 Container with Most Water: You don't always have to go through the inputs in a linear fashion. Start with the largest potential value and work from there!
@@ -56,31 +158,5 @@
  - #19 Remove Nth Node from End of List: Kind of cheated as I already knew how to find nth node from Joseph all those years ago :P again, a great question to do comign back from a break. Think about what pointers you need and which ones you dont! Always try to save memory. 
  - #209 Mininum Size Subarray Sum: REMEMBER YOU CAN DO TWO POINTER FOR MORE THAN JUST LINKED LISTS. I still have a lot of work to do regarding code readability. My final solution could have been shortened a couple lines.
 
-## Reflections - hard
+Reflections - hard
  - #124 Binary Tree Maximum Path Sum*: Honestly, easier than I expected for a hard question. Although I still didn't complete it 100% on my own, I got a lot closer than some mediums. Me thinks this one isn't actually that hard. One thing I need to work on is mental fatigue. I get impatient half way through and try to brute force it with submissions. 
-
-## Random Musings
- - 03/20/2022: BEEN A WHILE. I come back from a break after finding a job and do one of the hardest I've seen so far #1143. I get anniihilated even though I watched a video on how the algorithm works. Good to know that taking a break probably wasn't a good idea. I'm getting back into the swing of things again. When I look back at the change history, I actually only stopped for 22 days. Why is this so hard got damn. 
-
-
-
-
-
-
-# ----- something from reddit -- I'll organize this later --- 
-
-Once you've given a honest attempt to solve a problem, I agree that you should use all the materials you need to deeply understand the problem. But you DO need to spend some time struggling on your own to practice the PROCESS OF PROBLEM SOLVING.
-To deeply understand a tricky problem (solution/discussion/youtube/etc) you are already spending 1 to 2 hours. Spending 20-30 minutes extra to try to come up with a solution on your own is not that much more extra time, so just do it. Also, you definitely aren't going to be cranking out 300 problems in 3 weeks either (even if you just look at the solutions....).
-Here is how I go about leetcode prep. Take this advice with a grain of salt, I am preparing for interviews right now, but not I am an employed SWE yet.
-- Pick any book / resource / whatever you like to guide you and feed you problems (structy, algoexpert, Blind 75, Grokking, CTCI, EPI, etc -- they all basically teach you the same problems/patterns with slight variations).
-- When solving a problem I do this in a basic code editor (steps 1-4 and 6 in a multi line comment on top of the file):
-Copy/paste the problem definition. Read it out loud and understand what they want.
-Look at the examples they give you for what the algorithm should do. "Solution(input) -> output". Come up with 1 or 2 examples on your own, and write them down.
-Think out loud, and write down (!!) the possible high-level approaches to solving the problem. Eg: "this two-sum problem can be brute-forced in O(n^2) time using two for-loops, or it can be solved in O(n) using a hashmap." This doesn't have to be detailed, just a possible approach. Think about possible edge cases and how they could break the solution.
-Here, if you are completely blanking after 5 minutes, and can't even do a brute-force solution, then do what the OP said - abort mission, and spend the next hour understanding the problem by looking at the solution. Once you understood the solution go to step 4.
-Pick one of the approaches, and write out the pseudo code for it, while taking out loud as to what your thought process is.
-CODE THE ACTUAL SOLUTION. If you actually followed steps 1-4, this part is going to be trivial. You will bang out the actual code often in under 5 minutes. Paste the code into leetcode (or whatever platform you are using) to ensure it works. You can even write your own test cases, and run locally.
-If you haven't addressed this in step 3 (when you were talking about approaches), think about how you would optimize the solution. Talk about big O here.
-Basically, doing it this way, I train myself to do 2 things: first, to understand and potentially break down a complicated problem without panicking, and second, to communicate my thought process out loud. The hope here is that even if I can't solve the problem, clearly communicating my thought process will make it easy for the interviewer to give me tips, and maybe score me bonus points on the "communicates well" axis.
-Anyway, that's how I am doing it. It's slow. I realistically, do 2-3 problems a day only, and maybe only 1 problem when I am busy, but that's how I roll.
-I am a relative newbie trying to break into the field, so maybe this advice is shit. I'll update my thinking in 3 months >_> Based on whether it has worked for me or not.
