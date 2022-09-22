@@ -103,6 +103,9 @@ Tree
 * Binary Tree Maximum Path Sum (SKIPPED)
 * Binary Tree Level Order Traversal
     * Very important to choose the right data structure for this one
+* Serialize and Deserialize Binary Tree (SKIPPED)
+* Subtree of Another Tree
+    * An easy question but I kinda struggled oof. REDO
 
 
 # First Time 12/20/2021
