@@ -106,6 +106,8 @@ Tree
 * Serialize and Deserialize Binary Tree (SKIPPED)
 * Subtree of Another Tree
     * An easy question but I kinda struggled oof. REDO
+* Construct Binary Tree from Preorder and Inorder Traversal
+    * Very Very Very hard but also kinda easy once you know the trick. REDO 
 
 
 # First Time 12/20/2021
