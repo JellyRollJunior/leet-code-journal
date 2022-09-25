@@ -108,6 +108,9 @@ Tree
     * An easy question but I kinda struggled oof. REDO
 * Construct Binary Tree from Preorder and Inorder Traversal
     * Very Very Very hard but also kinda easy once you know the trick. REDO 
+* Validate Binary Search Tree
+    * REDO -> easy in principle but the concept is kinda hard to get
+    * Do iterative and recursive solution 
 
 
 # First Time 12/20/2021
