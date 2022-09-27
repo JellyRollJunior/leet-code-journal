@@ -6,6 +6,15 @@
  - Questions where I had to look at the answer to get a good time complexity marked *
 
 # Starting Again 08/06/2022
+
+Non Blind 75
+
+Easy
+
+Array
+* 88 - Merge Sorted Arrays
+    * Pretty neat question. Go from the back vs the front sometimes can be useful nomesayin   
+
 Blind 75 Tracker
 
 NOTES:
