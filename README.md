@@ -13,7 +13,8 @@ Easy
 
 Array
 * 88 - Merge Sorted Arrays
-    * Pretty neat question. Go from the back vs the front sometimes can be useful nomesayin   
+    * Pretty neat question. Go from the back vs the front sometimes can be useful nomesayin
+    * Clean version is very different from messy version. Good code optimization + clean code practice 
 
 Blind 75 Tracker
 
