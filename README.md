@@ -78,6 +78,8 @@ Linked List
 * Merge K sorted lists (skipped)
 * Remove Nth Node From End of List
     * you may remember the algorithm but can you think of an elegant way to implement it??? bitch boy
+* Reorder List
+    * I figured out the algorithm but I couldnt code it out. MUST REDO
 
 String
 * Longest Substring Without Repeating Characters
