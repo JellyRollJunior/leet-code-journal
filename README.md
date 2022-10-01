@@ -123,6 +123,10 @@ Tree
 * Validate Binary Search Tree
     * REDO -> easy in principle but the concept is kinda hard to get
     * Do iterative and recursive solution 
+* Kth Smallest Element in a BST
+    * REDO -> Good question to test elegant clean code
+    * I thought of the algorithm but it was so hacky and I re ran it so many times. FUCK
+    * I CAN THINK OF THE ALGORITHM BUT I NEED MORE PRACTICE CODING  
 
 
 # First Time 12/20/2021
