@@ -128,6 +128,7 @@ Tree
     * Remember that these kind of questions can always be done with a stack or with recursion. Pick your poison but stack is better for real world data with billionzzz of data points
     * I thought of the algorithm but it was so hacky and I re ran it so many times. FUCK
     * I CAN THINK OF THE ALGORITHM BUT I NEED MORE PRACTICE CODING  
+    * Familiarize yourself with stack tree iteration
 
 
 # First Time 12/20/2021
