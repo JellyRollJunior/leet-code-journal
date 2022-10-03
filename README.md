@@ -81,7 +81,7 @@ Linked List
 * Reorder List
     * I figured out the algorithm but I couldnt code it out. MUST REDO
 
-Matrix
+Matrix[row][col]
 * Setting Matrix Zeroes
     * O(MN) & O(M + N) are quite simple to figure out. 
     * O(1) space is a bit tricky but very smart. Think outside the box!
