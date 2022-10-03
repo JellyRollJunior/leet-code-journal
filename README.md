@@ -81,6 +81,13 @@ Linked List
 * Reorder List
     * I figured out the algorithm but I couldnt code it out. MUST REDO
 
+Matrix
+* Setting Matrix Zeroes
+    * O(MN) & O(M + N) are quite simple to figure out. 
+    * O(1) space is a bit tricky but very smart. Think outside the box!
+    * Good question to redo just to remember what kind of space saving methods are possible (but not high priority)
+    * DO NOT READ SPOILER: use the original matrix and data storage
+
 String
 * Longest Substring Without Repeating Characters
     * Important: Code this out using the data structure so you get the right answer first
