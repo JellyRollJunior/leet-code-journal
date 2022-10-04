@@ -87,6 +87,9 @@ Matrix[row][col]
     * O(1) space is a bit tricky but very smart. Think outside the box!
     * Good question to redo just to remember what kind of space saving methods are possible (but not high priority)
     * DO NOT READ SPOILER: use the original matrix and data storage
+* Spiral Matrix
+    * Good question to practice matrix indicies
+    * A good test in writing simple elegant code. My answer was quite convoluted when there was a VERY SIMPLE alternative.  
 
 String
 * Longest Substring Without Repeating Characters
