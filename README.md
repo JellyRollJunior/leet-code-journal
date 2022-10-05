@@ -90,6 +90,10 @@ Matrix[row][col]
 * Spiral Matrix
     * Good question to practice matrix indicies
     * A good test in writing simple elegant code. My answer was quite convoluted when there was a VERY SIMPLE alternative.  
+* Rotate Image
+    * Didn't even bother to attempt this one -> just looked at answer
+    * I remembered matrix multiplication from linear algebra but it had been too long
+    * Need to brush up on matrix operations.  
 
 String
 * Longest Substring Without Repeating Characters
