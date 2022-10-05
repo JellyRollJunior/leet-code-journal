@@ -17,6 +17,10 @@ String
 * Valid Parentheses
     * you can do it more elegantly bro. at least its better than last time
 
+Linked List
+* Merge Two Sorted Lists
+    * Neat trick: dummy node for head
+
 
 ### Non Blind 75
 
