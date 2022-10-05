@@ -7,6 +7,11 @@
 
 # Starting Again 08/06/2022
 
+Grind 75
+
+Array
+* Two Sum
+
 Non Blind 75
 
 Easy
@@ -20,6 +25,7 @@ Blind 75 Tracker
 
 NOTES:
 * Remember your fundamentals -> Use variables when a value is used more than once!
+* Hashmap lol
 
 Array
 * Two Sum
