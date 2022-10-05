@@ -15,6 +15,7 @@ Array
 
 String
 * Valid Parentheses
+    * you can do it more elegantly bro. at least its better than last time
 
 
 ### Non Blind 75
