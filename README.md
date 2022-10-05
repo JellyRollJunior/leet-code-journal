@@ -12,6 +12,9 @@
 Array
 * Two Sum
 
+String
+* Valid Parentheses
+
 
 ### Non Blind 75
 
