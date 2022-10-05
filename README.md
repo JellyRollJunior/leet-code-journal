@@ -8,6 +8,7 @@
 # Starting Again 08/06/2022
 
 ### Grind 75
+This time focus on getting the question right the first time. Try not to do reruns or brute force run test cases on a question. 
 
 Array
 * Two Sum
