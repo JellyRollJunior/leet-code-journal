@@ -161,6 +161,9 @@ Tree
     * I thought of the algorithm but it was so hacky and I re ran it so many times. FUCK
     * I CAN THINK OF THE ALGORITHM BUT I NEED MORE PRACTICE CODING  
     * Familiarize yourself with stack tree iteration
+* Lowest Common Ancestor of a Binary Search Tree
+    * THOROUGHLY READ THE QUESETION
+    * ITS ACTUALLY REALLY EASY WHEN YOU FIGURE OUT WHAT THE QUESTION ACTUALLY WANTS FROM YOU 
 
 
 # First Time 12/20/2021
