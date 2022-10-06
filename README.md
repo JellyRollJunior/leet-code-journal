@@ -167,6 +167,11 @@ Tree
 * Lowest Common Ancestor of a Binary Search Tree
     * THOROUGHLY READ THE QUESETION
     * ITS ACTUALLY REALLY EASY WHEN YOU FIGURE OUT WHAT THE QUESTION ACTUALLY WANTS FROM YOU 
+* Add and Search Word
+    * REDO FOR SURE
+    * I just looked at the answer for this one lol 
+    * Trie data structure MY GUY
+    * Honestly not a very difficult question once you know about Trie's. Basically a test on implementing a Trie data structure.   
 
 
 # First Time 12/20/2021
