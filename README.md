@@ -17,11 +17,14 @@ Array
 String
 * Valid Parentheses
     * you can do it more elegantly bro. at least its better than last time
+* Valid Palindrome
 
 Linked List
 * Merge Two Sorted Lists
     * Neat trick: dummy node for head
 
+Tree
+* Invert Binary Tree
 
 ### Non Blind 75
 
