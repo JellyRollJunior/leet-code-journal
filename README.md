@@ -93,6 +93,9 @@ Dynamic Programming
 
 Interval
 * Insert Interval
+* Merge Intervals
+    * Honestly not that hard tbh. Can redo if you want
+    * Remember you can always sort if you want LOL 
 
 Linked List
 * Reverse Linked List
