@@ -18,6 +18,7 @@ String
 * Valid Parentheses
     * you can do it more elegantly bro. at least its better than last time
 * Valid Palindrome
+* Valid Anagram
 
 Linked List
 * Merge Two Sorted Lists
