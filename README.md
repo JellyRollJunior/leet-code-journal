@@ -16,6 +16,9 @@ Array
 * Binary Seach
     * Holy shit I messed up binary search fuck  
 
+Matrix
+* Flood Fill 
+
 String
 * Valid Parentheses
     * you can do it more elegantly bro. at least its better than last time
@@ -28,6 +31,7 @@ Linked List
 
 Tree
 * Invert Binary Tree
+* Lowest Common Ancestor of a Binary Search Tree
 
 ### Non Blind 75
 
