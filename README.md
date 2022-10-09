@@ -18,6 +18,7 @@ Array
 
 Matrix
 * Flood Fill 
+    * For the love of god please learn how to recurse properly 
 
 String
 * Valid Parentheses
