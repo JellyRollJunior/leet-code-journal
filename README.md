@@ -32,6 +32,10 @@ Linked List
 Tree
 * Invert Binary Tree
 * Lowest Common Ancestor of a Binary Search Tree
+* Balanced Binary Tree 
+    * I am so bad at trees
+    * Need to identify when its a good idea to go BOTTOM UP vs TOP DOWN approach
+    * DEFINITELY REDO  
 
 ### Non Blind 75
 
