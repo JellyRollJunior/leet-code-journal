@@ -42,6 +42,7 @@ Tree
 Misc.
 * Implement Queue using Stack 
     * Kind of a fun quirky question ngl 
+    * Ok actually I did it the inefficient way. Only perform operations when necessary. Do not need to waste time keeping data structures correct when they can be left in intermediate states until they need to be calculated properly. 
 
 ### Non Blind 75
 
