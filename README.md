@@ -39,6 +39,10 @@ Tree
     * Need to identify when its a good idea to go BOTTOM UP vs TOP DOWN approach
     * DEFINITELY REDO  
 
+Misc.
+* Implement Queue using Stack 
+    * Kind of a fun quirky question ngl 
+
 ### Non Blind 75
 
 Easy
