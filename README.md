@@ -17,6 +17,7 @@ Array
     * Holy shit I messed up binary search fuck  
 * Ransom Note
     * YOU CAN DO IT THE OVER ENGINEERED DUMB WAY OR THE SIMPLE EASY WAY THE CHOICE IS YOURS MY GUY
+    * REDO (?) 
 
 Matrix
 * Flood Fill 
