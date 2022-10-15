@@ -31,6 +31,8 @@ String
     * you can do it more elegantly bro. at least its better than last time
 * Valid Palindrome
 * Valid Anagram
+* Longest Palindrome Length
+    * Answer is easy but theres a space saving optimization! 
 
 Linked List
 * Merge Two Sorted Lists
