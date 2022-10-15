@@ -19,6 +19,9 @@ Array
     * YOU CAN DO IT THE OVER ENGINEERED DUMB WAY OR THE SIMPLE EASY WAY THE CHOICE IS YOURS MY GUY
     * REDO (?) 
 
+Dynamic Programming
+* Climbing Stairs
+
 Matrix
 * Flood Fill 
     * For the love of god please learn how to recurse properly 
