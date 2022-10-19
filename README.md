@@ -56,6 +56,7 @@ Misc.
     * I can't code binary search properly LOL. Ok I can but please pay attention to indices and such
     * Dont get cocky just cuz its easy. Pay attention to edge cases
     * REDO (?)
+* Majority Element
 
 ### Non Blind 75
 
