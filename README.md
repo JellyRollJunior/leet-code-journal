@@ -38,6 +38,7 @@ Linked List
 * Merge Two Sorted Lists
     * Neat trick: dummy node for head
 * Linked List Cycle
+* Reverse Linked List
 
 Tree
 * Invert Binary Tree
