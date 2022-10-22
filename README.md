@@ -45,6 +45,8 @@ Linked List
     * Neat trick: dummy node for head
 * Linked List Cycle
 * Reverse Linked List
+* Middle of the Linked List
+    * Pretty easy question but you need to work on getting it right the first time. no re-running in interviews 
 
 Tree
 * Invert Binary Tree
