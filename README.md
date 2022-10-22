@@ -19,6 +19,12 @@ Array
     * YOU CAN DO IT THE OVER ENGINEERED DUMB WAY OR THE SIMPLE EASY WAY THE CHOICE IS YOURS MY GUY
     * REDO (?) 
 
+Binary
+* Add Binary 
+    * Good intro to binary
+    * DEF REDO SINCE YOU JUST LOOKED AT THE ANSWER
+    * IM SO BAD AT BINARY STUFF 
+
 Dynamic Programming
 * Climbing Stairs
 
