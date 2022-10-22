@@ -55,9 +55,11 @@ Tree
     * I am so bad at trees
     * Need to identify when its a good idea to go BOTTOM UP vs TOP DOWN approach
     * DEFINITELY REDO  
-* Diameter of a binary tree
+* Diameter of a Binary Tree
     * Good question to practice recurison
     * REDO 
+* Maximum Depth of Binary Tree
+    * You do this when doing Diameter of a Binary Tree loooool
 
 Misc.
 * Implement Queue using Stack 
