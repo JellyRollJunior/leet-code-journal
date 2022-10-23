@@ -43,7 +43,7 @@ String
 * Backspace String Compare
     * O(N) space is easy
     * O(1) space kinda hard doe ngl
-    * You don't always have to traverse from the start my guy     
+    * You don't always have to traverse from L to R my guy
 
 Linked List
 * Merge Two Sorted Lists
