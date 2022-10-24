@@ -65,6 +65,8 @@ Tree
     * REDO 
 * Maximum Depth of Binary Tree
     * You do this when doing Diameter of a Binary Tree loooool
+* Same Tree
+    * simple + quick recursion practice
 
 Misc.
 * Implement Queue using Stack 
