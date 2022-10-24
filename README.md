@@ -52,6 +52,9 @@ Linked List
 * Reverse Linked List
 * Middle of the Linked List
     * Pretty easy question but you need to work on getting it right the first time. no re-running in interviews 
+* Longest Common Prefix
+    * Many ways to do this one. 
+    * Useful functions => startsWith, indexOf  
 
 Tree
 * Invert Binary Tree
