@@ -25,6 +25,8 @@ Binary
     * Good intro to binary
     * DEF REDO SINCE YOU JUST LOOKED AT THE ANSWER
     * IM SO BAD AT BINARY STUFF 
+* Single Number
+    * Good basic question on binary operation 
 
 Dynamic Programming
 * Climbing Stairs
