@@ -60,6 +60,7 @@ Linked List
 * Palindrome Linked List
     * Remember to use functions to help reduce complexity in your head
     * Know the multiple ways to implement a solution 
+    * When creating a separate implementation solution, DON'T TRY TO REUSE CODE TBH IT JUST FUCKS EVERYTHING UP
 
 Tree
 * Invert Binary Tree
