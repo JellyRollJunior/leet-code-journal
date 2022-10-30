@@ -57,6 +57,9 @@ Linked List
 * Longest Common Prefix
     * Many ways to do this one. 
     * Useful functions => startsWith, indexOf  
+* Palindrome Linked List
+    * Remember to use functions to help reduce complexity in your head
+    * Know the multiple ways to implement a solution 
 
 Tree
 * Invert Binary Tree
