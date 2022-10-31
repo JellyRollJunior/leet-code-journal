@@ -80,6 +80,8 @@ Tree
     * You do this when doing Diameter of a Binary Tree loooool
 * Same Tree
     * simple + quick recursion practice
+* Symmetric Tree
+    * basically the same as above 
 
 Misc.
 * Implement Queue using Stack 
