@@ -19,6 +19,10 @@ Array
     * YOU CAN DO IT THE OVER ENGINEERED DUMB WAY OR THE SIMPLE EASY WAY THE CHOICE IS YOURS MY GUY
     * REDO (?) 
 * Contains Duplicate 
+* Move Zeroes
+    * Neat solution. practice your two pointer skills
+    * speed here depends on the small optimizations
+    * REDO 
 
 Binary
 * Add Binary 
