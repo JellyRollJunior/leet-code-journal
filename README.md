@@ -31,6 +31,9 @@ Binary
     * IM SO BAD AT BINARY STUFF 
 * Single Number
     * Good basic question on binary operation 
+* Missing Number
+    * Many ways to do this question!
+    * Arrays, Addition, Bit Manipulation!  
 
 Dynamic Programming
 * Climbing Stairs
