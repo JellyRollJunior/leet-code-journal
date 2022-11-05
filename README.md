@@ -85,6 +85,9 @@ Tree
     * simple + quick recursion practice
 * Symmetric Tree
     * basically the same as above 
+* Convert Sorted Array to Binary Search Tree
+    * Really good question for testing recursion skills
+    * REDO!
 
 Misc.
 * Implement Queue using Stack 
