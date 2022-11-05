@@ -23,6 +23,10 @@ Array
     * Neat solution. practice your two pointer skills
     * speed here depends on the small optimizations
     * REDO 
+* Squares of a Sorted Array
+    * Not a very hard question however there is a tricky bit that simplifies a lot
+    * YOU GOT PLAYED BY AN EASY QUESTION LOOOOOOOOOOOOOOOOOOOL
+    * Redo  
 
 Binary
 * Add Binary 
