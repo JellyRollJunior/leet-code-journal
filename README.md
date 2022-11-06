@@ -45,6 +45,8 @@ Binary
     * It's a bit question but not a bit manipulation question
     * It's pretty good question though. Test you algorithmic skills + thinking outside the box as I thought it was a bit manip question
     * REDO
+* Number of 1 bits
+    * >> vs >>> learn the diff my guy lololololololo xddddddddd 
 
 Dynamic Programming
 * Climbing Stairs
