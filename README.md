@@ -47,6 +47,7 @@ Binary
     * REDO
 * Number of 1 bits
     * >> vs >>> learn the diff my guy lololololololo xddddddddd 
+    * Java blows 
 
 Dynamic Programming
 * Climbing Stairs
