@@ -41,6 +41,10 @@ Binary
 * Subtree of Another Tree
     * Good recursion practice. 
     * DO THE ITERATIVE AND RECURSIVE SOLUTIONS 
+* Counting Bits
+    * It's a bit question but not a bit manipulation question
+    * It's pretty good question though. Test you algorithmic skills + thinking outside the box as I thought it was a bit manip question
+    * REDO
 
 Dynamic Programming
 * Climbing Stairs
