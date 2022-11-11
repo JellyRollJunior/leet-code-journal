@@ -27,6 +27,9 @@ Array
     * Not a very hard question however there is a tricky bit that simplifies a lot
     * YOU GOT PLAYED BY AN EASY QUESTION LOOOOOOOOOOOOOOOOOOOL
     * Redo  
+* Maximum Subarray
+    * I had a really ugly answer that i condensed down to Kadane's Algorithm!
+    * Not a very difficult question but a good practice 
 
 Binary
 * Add Binary 
