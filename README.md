@@ -244,6 +244,9 @@ String
 * Palindromic Substrings
     * Easier version of longest palindromic substring. 
     * its the same algorithm but with less knowledge of string functions
+* Longest Substring without Repeating Character
+    * Algorithm isn't too hard (probably cuz I've done this question like 4 times already but there are a couple optimizations that are pretty neat!
+    * HashSet, Array, HashMap ... etc. Many ways to implement
 
 Tree
 * Maximum Depth of Binary Tree
