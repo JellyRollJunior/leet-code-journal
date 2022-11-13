@@ -108,6 +108,11 @@ Tree
     * Really good question for testing recursion skills
     * REDO!
 
+Intervals
+* Insert Interval
+    * Somehow I said this question is easy earlier and you know what it kind of isn't that difficult but IT STILL TOOK ME A BIT OK
+    * Divide intervals into BEFORE, OVERLAP, AND AFTER instead of trying to combine everything into one loop
+
 Misc.
 * Implement Queue using Stack 
     * Kind of a fun quirky question ngl 
