@@ -115,6 +115,13 @@ Misc.
     * Dont get cocky just cuz its easy. Pay attention to edge cases
     * REDO (?)
 * Majority Element
+* Reverse Integer
+    * REDO FUCK FUCK FUCK 
+    * Ok so the tricky part for this one is figuring out how to check for overflow -> remembering your mathematic equations can be useful here 
+* Palindrome Number
+    * Incorporate Reverse Integer to create a wacky solution
+    * Difficult part is checking whether is still palindrome if there are ODD number of digits
+    * If you understand how the solution works, this should be evident (but not simple to figure out)
 
 ### Non Blind 75
 
