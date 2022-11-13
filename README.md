@@ -51,6 +51,8 @@ Binary
 * Number of 1 bits
     * \>> vs >>> learn the diff my guy lololololololo xddddddddd 
     * Java blows 
+* Reverse Bits
+    * did you know you can do this answer <<= 1; (wow)!
 
 Dynamic Programming
 * Climbing Stairs
