@@ -107,6 +107,9 @@ Tree
 * Convert Sorted Array to Binary Search Tree
     * Really good question for testing recursion skills
     * REDO!
+* Binary Tree Level Order Traversal
+    * Insane confidence boost
+    * LEARN WHAT THE QUEUE METHODS ARE. YOU CAN'T KEEP LOOKING AT ORACLE DOCUMENTATION DURING INTERVIEWS LOOOOOOL
 
 Intervals
 * Insert Interval
