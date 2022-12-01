@@ -63,6 +63,10 @@ Dynamic Programming
 Matrix
 * Flood Fill 
     * For the love of god please learn how to recurse properly 
+* 01 Matrix
+    * An excellent question for testing your matrix skills
+    * BFS -> MANY WAYS TO IMPLEMENT
+    * REMEMBER YOU DONT ALWAYS HAVE TO START FROM START TO TARGET, SOMETIMES ITS MORE INTUITIVE TO GO FROM TARGET TO START
 
 String
 * Valid Parentheses
