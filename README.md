@@ -134,6 +134,7 @@ Heap
             * if (a < b) then a -> b < 0
             * if (a == b) then a -> b == 0
             * if (a > b) then a -> b > 0
+    * MUST REDO 
 
 Misc.
 * Implement Queue using Stack 
