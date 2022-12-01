@@ -124,6 +124,13 @@ Intervals
     * Divide intervals into BEFORE, OVERLAP, AND AFTER instead of trying to combine everything into one loop
     * Save yourself some complexity by doing start and end val in the same step instead of separating them
 
+Heap
+* K Closest Points to Origin 
+    * I should probably learn how to implement a heap myself
+    * For now learn to use the priority queue implementation
+        * PriorityQueue<int[]> queue = new PriorityQueue<>((p1, p2) -> p2 - p1);
+        * p2 - p1 for max heap, p1 - p2 for min heap  
+
 Misc.
 * Implement Queue using Stack 
     * Kind of a fun quirky question ngl 
