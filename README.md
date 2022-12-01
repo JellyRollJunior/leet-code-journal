@@ -130,6 +130,10 @@ Heap
     * For now learn to use the priority queue implementation
         * PriorityQueue<int[]> queue = new PriorityQueue<>((p1, p2) -> p2 - p1);
         * p2 - p1 for max heap, p1 - p2 for min heap  
+        * For ascending order comparator
+            * if (a < b) then a -> b < 0
+            * if (a == b) then a -> b == 0
+            * if (a > b) then a -> b > 0
 
 Misc.
 * Implement Queue using Stack 
