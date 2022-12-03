@@ -59,6 +59,7 @@ Binary
 
 Dynamic Programming
 * Climbing Stairs
+* Coin Change
 
 Matrix
 * Flood Fill 
