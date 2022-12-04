@@ -143,6 +143,7 @@ Graph
     * Good first graph question tbh
     * THINK ABOUT WHAT SEARCH METHODS ARE AVAILABLE TO YOU AND CHOOSE THE BEST ONE BFS vs DFS etc. 
     * REDO!
+    * Many ways to optimize! DON'T LOOK (store copied nodes in): ArrayList -> HashMap<Integer, Node> -> HashMap<Node, Node>
 
 Misc.
 * Implement Queue using Stack 
