@@ -4,6 +4,7 @@
  - If solution not optimal, search discussions optimal solution
  - Understand the optimal solution 
  - Questions where I had to look at the answer to get a good time complexity marked *
+ - HashMap XDDDDDDDDDDDd
 
 # Starting Again 08/06/2022
 
@@ -136,6 +137,12 @@ Heap
             * if (a == b) then a -> b == 0
             * if (a > b) then a -> b > 0
     * MUST REDO 
+
+Graph
+* Clone Graph
+    * Good first graph question tbh
+    * THINK ABOUT WHAT SEARCH METHODS ARE AVAILABLE TO YOU AND CHOOSE THE BEST ONE BFS vs DFS etc. 
+    * REDO!
 
 Misc.
 * Implement Queue using Stack 
