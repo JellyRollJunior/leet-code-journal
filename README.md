@@ -4,7 +4,8 @@
  - If solution not optimal, search discussions optimal solution
  - Understand the optimal solution 
  - Questions where I had to look at the answer to get a good time complexity marked *
- - HashMap XDDDDDDDDDDDd
+ - HashMap XDDDDDDDDDDDdddddddd
+ - STACK IS DEPRECATED USE Deque
 
 # Starting Again 08/06/2022
 
