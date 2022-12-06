@@ -162,7 +162,8 @@ Misc.
     * Difficult part is checking whether is still palindrome if there are ODD number of digits
     * If you understand how the solution works, this should be evident (but not simple to figure out)
 * Evaluate Reverse Polish Notation
-    * Sounds like a scary question but honestly its easy as fuck lol 
+    * Sounds like a scary question but honestly its easy as fuck lol
+    * Don't get cocky. You could have improved readability by using a switch statement! Remember those exist lol 
 
 ### Non Blind 75
 
