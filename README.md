@@ -161,6 +161,8 @@ Misc.
     * Incorporate Reverse Integer to create a wacky solution
     * Difficult part is checking whether is still palindrome if there are ODD number of digits
     * If you understand how the solution works, this should be evident (but not simple to figure out)
+* Evaluate Reverse Polish Notation
+    * Sounds like a scary question but honestly its easy as fuck lol 
 
 ### Non Blind 75
 
