@@ -35,6 +35,8 @@ Array
 * 3Sum
     * I already knew the algorithm (remembered it from last time) but I'm still very happy I properly coded it out for the first time!
     * There are some very very smart, clean, line saving improvements on some answers in the discussions. Be sure to check them out
+* Product of Array Except Self
+    * O(N) space very easy -> O(1) space kinda tricky but not too hard
 
 Binary
 * Add Binary 
