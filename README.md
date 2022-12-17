@@ -5,7 +5,7 @@
  - Understand the optimal solution 
  - Questions where I had to look at the answer to get a good time complexity marked *
  - HashMap XDDDDDDDDDDDdddddddd
- - STACK IS DEPRECATED USE Deque
+ - STACK IS DEPRECATED USE Deque -> Deque<Integer> stack = new LinkedList<>();
 
 # Starting Again 08/06/2022
 
@@ -165,6 +165,9 @@ Misc.
 * Evaluate Reverse Polish Notation
     * Sounds like a scary question but honestly its easy as fuck lol
     * Don't get cocky. You could have improved readability by using a switch statement! Remember those exist lol 
+* Validate Binary Search Tree
+    * Recursive + Iterative solutions are cool!
+    * DO NOT READ: Ok thinking about the interative solution, we can do an IN-ORDER traversal using a stack to ensure the BST is valid! Smart!
 
 ### Non Blind 75
 
