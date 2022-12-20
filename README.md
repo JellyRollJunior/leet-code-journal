@@ -72,6 +72,9 @@ Matrix
     * An excellent question for testing your matrix skills
     * BFS -> MANY WAYS TO IMPLEMENT
     * REMEMBER YOU DONT ALWAYS HAVE TO START FROM START TO TARGET, SOMETIMES ITS MORE INTUITIVE TO GO FROM TARGET TO START
+* Number of Islands
+    * Two solutions -> no editing the input + allowing editing the input 
+    * An excellent question -> REDO
 
 String
 * Valid Parentheses
