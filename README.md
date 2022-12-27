@@ -37,6 +37,8 @@ Array
     * There are some very very smart, clean, line saving improvements on some answers in the discussions. Be sure to check them out
 * Product of Array Except Self
     * O(N) space very easy -> O(1) space kinda tricky but not too hard
+* Search in Rotated Sorted Array
+    * I got the concept but I'm not familiar enough to confidently code binary search. Study binary search more.
 
 Binary
 * Add Binary 
