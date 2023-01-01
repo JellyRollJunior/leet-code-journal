@@ -40,6 +40,8 @@ Array
 * Search in Rotated Sorted Array
     * I got the concept but I'm not familiar enough to confidently code binary search. Study binary search more.
     * Redid this after reading BINARY SEARCH 101 on (Easy Binary Search Discussion page)
+* Container With Most Water
+    * I kinda already knew how to do this question but my code is getting cleaner! Still a lot to improve on regarding redundant operations however. 
 
 Binary
 * Add Binary 
