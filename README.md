@@ -91,7 +91,7 @@ String
     * O(1) space kinda hard doe ngl
     * You don't always have to traverse from L to R my guy
 * Longest Palindromic Substring
-    * Kinda already knew how to do this one but looking at my previous solutions, I've come a long way! Just look at the new January submission compared to the September submission. Absolute night and day difference. I think I was with Olivia already when I submitted that (September 19th). I'm so cringe. 
+    * Kinda already knew how to do this one but looking at my previous solutions, I've come a long way! Just look at the new January (Ok December 31st whatever) submission compared to the September submission. Absolute night and day difference. I think I was with Olivia already when I submitted that (September 19th). I'm so cringe. 
 
 Linked List
 * Merge Two Sorted Lists
