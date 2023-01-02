@@ -69,6 +69,8 @@ Binary
 Dynamic Programming
 * Climbing Stairs
 * Coin Change
+* Unique Paths
+    * I've pretty much memorized this question. No point in doing this unless practicing coding style
 
 Matrix
 * Flood Fill 
