@@ -85,6 +85,7 @@ Matrix
 * Rotting Orangrs
     * Basically number of islands 2
     * I often make the mistake of using queue.size() in the for loop condition. queue.size() gets called for each iteration so you need to make it a constant
+    * Theres a neat optimization to ending the loop early without going through the last round of values in the queue -> see if you can figure it out on your own next time
 
 String
 * Valid Parentheses
