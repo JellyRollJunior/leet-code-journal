@@ -82,6 +82,9 @@ Matrix
 * Number of Islands
     * Two solutions -> no editing the input + allowing editing the input 
     * An excellent question -> REDO
+* Rotting Orangrs
+    * Basically number of islands 2
+    * I often make the mistake of using queue.size() in the for loop condition. queue.size() gets called for each iteration so you need to make it a constant
 
 String
 * Valid Parentheses
