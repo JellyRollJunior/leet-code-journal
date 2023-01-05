@@ -42,6 +42,8 @@ Array
     * Redid this after reading BINARY SEARCH 101 on (Easy Binary Search Discussion page)
 * Container With Most Water
     * I kinda already knew how to do this question but my code is getting cleaner! Still a lot to improve on regarding redundant operations however. 
+* Sort Colors
+    * 2 pass is super easy and straight forward. 1 pass is a bit trickier. See if you can figure it out on your own next time!
 
 Binary
 * Add Binary 
