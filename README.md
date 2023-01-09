@@ -171,6 +171,8 @@ BackTracking
     * DP -> EXPONENTIAL
     * USE BACK TRACKING! Study this question. I can figure out the algorithm to solve it but I can't code it out. Need to study this one indepth
     * REDO REDO REDO
+* Permutations
+    * You will need to practice backtracking a LOT! I can code the answer but I feel like I still don't fully understand the process
  
 Misc.
 * Implement Queue using Stack 
