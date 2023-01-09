@@ -166,6 +166,12 @@ Graph
     * REDO!
     * Many ways to optimize! DON'T LOOK (store copied nodes in): ArrayList -> HashMap<Integer, Node> -> HashMap<Node, Node>
 
+BackTracking
+* Combination Sum
+    * DP -> EXPONENTIAL
+    * USE BACK TRACKING! Study this question. I can figure out the algorithm to solve it but I can't code it out. Need to study this one indepth
+    * REDO REDO REDO
+ 
 Misc.
 * Implement Queue using Stack 
     * Kind of a fun quirky question ngl 
@@ -188,10 +194,7 @@ Misc.
 * Validate Binary Search Tree
     * Recursive + Iterative solutions are cool!
     * DO NOT READ: Ok thinking about the interative solution, we can do an IN-ORDER traversal using a stack to ensure the BST is valid! Smart!
-* Combination Sum
-    * DP -> EXPONENTIAL
-    * USE BACK TRACKING! Study this question. I can figure out the algorithm to solve it but I can't code it out. Need to study this one indepth
-    * REDO REDO REDO
+
 
 ### Non Blind 75
 
