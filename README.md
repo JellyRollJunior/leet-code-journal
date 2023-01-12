@@ -73,6 +73,8 @@ Dynamic Programming
 * Coin Change
 * Unique Paths
     * I've pretty much memorized this question. No point in doing this unless practicing coding style
+* House Robber
+    * I've pretty much memorized this question. Although there are some neat optimizations that can be done so worth it to do just to test space saving.
 
 Matrix
 * Flood Fill 
