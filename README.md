@@ -119,6 +119,9 @@ Linked List
     * Remember to use functions to help reduce complexity in your head
     * Know the multiple ways to implement a solution 
     * When creating a separate implementation solution, DON'T TRY TO REUSE CODE TBH IT JUST FUCKS EVERYTHING UP
+* Find the Duplicate Number
+    * extreme salt alert: https://www.youtube.com/watch?v=wjYnzkAhcNk
+    * This is a proof question... video just says to memorize it cuz theres no way u could figure this out in an interview setting LOL oof
 
 Tree
 * Invert Binary Tree
