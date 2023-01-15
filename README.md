@@ -203,6 +203,7 @@ Misc.
     * DO NOT READ: Ok thinking about the interative solution, we can do an IN-ORDER traversal using a stack to ensure the BST is valid! Smart!
 * Min Stack
     * An actual good question for practicing PRACTICAL CODING SKILLS
+    * Hint: Implement your own data class -> don't use a prebuilt
     * Redo!
 
 
