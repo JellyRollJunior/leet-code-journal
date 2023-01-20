@@ -170,6 +170,8 @@ Graph
     * THINK ABOUT WHAT SEARCH METHODS ARE AVAILABLE TO YOU AND CHOOSE THE BEST ONE BFS vs DFS etc. 
     * REDO!
     * Many ways to optimize! DON'T LOOK (store copied nodes in): ArrayList -> HashMap<Integer, Node> -> HashMap<Node, Node>
+* Course Schedule
+    * Very good question to practice topological sort!
 
 BackTracking
 * Combination Sum
