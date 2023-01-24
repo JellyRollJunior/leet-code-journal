@@ -209,6 +209,9 @@ Misc.
     * Redo!
 * Largest Number
     * Dumb comparator question q_q
+* Implement Trie (Prefix Tree)
+    * Excellent practical programming question!
+    * very phun
 
 
 ### Non Blind 75
