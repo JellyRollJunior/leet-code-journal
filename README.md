@@ -145,6 +145,9 @@ Tree
 * Binary Tree Level Order Traversal
     * Insane confidence boost
     * LEARN WHAT THE QUEUE METHODS ARE. YOU CAN'T KEEP LOOKING AT ORACLE DOCUMENTATION DURING INTERVIEWS LOOOOOOL
+* Lowest Common Ancestor of a Binary Tree
+    * Redo -> good question to test recursive skills
+    * Think about each case thoroughly. You're kinda rusty :(
 
 Intervals
 * Insert Interval
