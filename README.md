@@ -148,6 +148,8 @@ Tree
 * Lowest Common Ancestor of a Binary Tree
     * Redo -> good question to test recursive skills
     * Think about each case thoroughly. You're kinda rusty :(
+* Binary Tree Right Side View
+    * I did it with DFS first -> Try to implement with BFS too!
 
 Intervals
 * Insert Interval
