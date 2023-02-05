@@ -156,6 +156,10 @@ Intervals
     * Somehow I said this question is easy earlier and you know what it kind of isn't that difficult but IT STILL TOOK ME A BIT OK
     * Divide intervals into BEFORE, OVERLAP, AND AFTER instead of trying to combine everything into one loop
     * Save yourself some complexity by doing start and end val in the same step instead of separating them
+* Merge Intervals
+    * Not a particularly hard question (I've already done it in october -> it is feb now)
+    * Tips: if you need the input sorted, then you can sort it yourself! don't think "aww man i need it sorted or else my solution won't work". You can sort it yourself! Learn how to use sort function. its very helpful for solutions (creating your own comparator with lamda) (java 8)
+    * Can redo to practice intervals!
 
 Heap
 * K Closest Points to Origin 
