@@ -221,7 +221,9 @@ Misc.
 * Implement Trie (Prefix Tree)
     * Excellent practical programming question!
     * very phun
-
+* Jump Game
+    * Not a very difficult question
+    * Can solve in a variety of ways: DP, Array, or just a simple constant space variable
 
 ### Non Blind 75
 
