@@ -150,6 +150,9 @@ Tree
     * Think about each case thoroughly. You're kinda rusty :(
 * Binary Tree Right Side View
     * I did it with DFS first -> Try to implement with BFS too!
+* Kth Smallest Element In A BST
+    * Not too hard of a question! Remember your years of tree theory looool. V basic once you see the pattern!
+    * Implement it in recursive and interative! Good way to practice both
 
 Intervals
 * Insert Interval
