@@ -153,6 +153,9 @@ Tree
 * Kth Smallest Element In A BST
     * Not too hard of a question! Remember your years of tree theory looool. V basic once you see the pattern!
     * Implement it in recursive and interative! Good way to practice both
+* Path Sum II
+    * I'm getting pretty good at these tree traversal question
+    * not a particularly difficult question algorithmically but I could do some improvement with saving space
 
 Intervals
 * Insert Interval
