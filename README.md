@@ -75,7 +75,10 @@ Dynamic Programming
     * I've pretty much memorized this question. No point in doing this unless practicing coding style
 * House Robber
     * I've pretty much memorized this question. Although there are some neat optimizations that can be done so worth it to do just to test space saving.
-
+* Word Break
+    * Quite a hard question. Truth be told I still don't fully understand this question
+    * Must redo
+ 
 Matrix
 * Flood Fill 
     * For the love of god please learn how to recurse properly 
