@@ -89,10 +89,14 @@ Matrix
 * Number of Islands
     * Two solutions -> no editing the input + allowing editing the input 
     * An excellent question -> REDO
-* Rotting Orangrs
+* Rotting Oranges
     * Basically number of islands 2
     * I often make the mistake of using queue.size() in the for loop condition. queue.size() gets called for each iteration so you need to make it a constant
     * Theres a neat optimization to ending the loop early without going through the last round of values in the queue -> see if you can figure it out on your own next time
+* Word Search
+    * I still got it! kinda!
+    * Very good matrix question. Good practice! redo if need matrix practice
+    * I implemented this a bit hacky. It could be cleaner. Need to fully walk through the recursive path to visualize the callstack better
 
 String
 * Valid Parentheses
