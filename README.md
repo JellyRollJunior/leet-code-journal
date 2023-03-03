@@ -97,6 +97,7 @@ Matrix
     * I still got it! kinda!
     * Very good matrix question. Good practice! redo if need matrix practice
     * I implemented this a bit hacky. It could be cleaner. Need to fully walk through the recursive path to visualize the callstack better
+    * I have trouble implementing recursive functions that don't return void. I need to practice my recursive call stacks a bit more
 
 String
 * Valid Parentheses
