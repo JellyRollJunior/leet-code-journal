@@ -130,6 +130,8 @@ Linked List
 * Find the Duplicate Number
     * extreme salt alert: https://www.youtube.com/watch?v=wjYnzkAhcNk
     * This is a proof question... video just says to memorize it cuz theres no way u could figure this out in an interview setting LOL oof
+* Odd Even Linked List
+    * I am not well versed in linked list questions. This is a definite REDO
 
 Tree
 * Invert Binary Tree
