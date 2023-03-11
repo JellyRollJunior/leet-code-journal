@@ -240,6 +240,9 @@ Misc.
 * Jump Game
     * Not a very difficult question
     * Can solve in a variety of ways: DP, Array, or just a simple constant space variable
+* Daily Temperatures
+    * Good to redo
+    * I'm having trouble seeing the intuition on how I would solve this for the next time. I think I might need to do more of these types of questions.
 
 ### Non Blind 75
 
