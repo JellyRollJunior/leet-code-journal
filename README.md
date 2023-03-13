@@ -252,7 +252,11 @@ Array
 * 88 - Merge Sorted Arrays
     * Pretty neat question. Go from the back vs the front sometimes can be useful nomesayin
     * Clean version is very different from messy version. Good code optimization + clean code practice 
-
+ * 469 - Next Greater Element I
+    * THIS AIN'T AN EASY
+    * Actually a really good question to practice using hashmaps + next biggest elem type
+    * Recommend a redo for sure!
+    
 
 ### Blind 75 Tracker
 
