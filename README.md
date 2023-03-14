@@ -252,10 +252,13 @@ Array
 * 88 - Merge Sorted Arrays
     * Pretty neat question. Go from the back vs the front sometimes can be useful nomesayin
     * Clean version is very different from messy version. Good code optimization + clean code practice 
- * 469 - Next Greater Element I
+* 469 - Next Greater Element I
     * THIS AIN'T AN EASY
     * Actually a really good question to practice using hashmaps + next biggest elem type
     * Recommend a redo for sure!
+* 581 - Shortest Unsorted Continuous Subarray 
+    * This question is so tricky I dont even know if i learned anything from looking at the answer
+    * redo. I guess I've seen this pattern before now so I will recognize it... maybe.
     
 
 ### Blind 75 Tracker
